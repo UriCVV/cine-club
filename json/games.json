@@ -1,0 +1,16 @@
+{
+  "games":[
+    {
+      "id": 1,
+      "title": "Dark souls",
+      "developer": "FromSoftware",
+      "publisher": "Namco Bandai Games",
+      "category": "Action RPG, Dungeon",
+      "made by": "Hidetaka Miyazaki (Director, Producer), Motoi Sakuraba (Composer)",
+      "year": "2011",
+      "stars": "4.5",
+      "comment":"",
+      "img": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_DarkSoulsRemastered.jpg"
+    }
+  ]
+}

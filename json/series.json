@@ -1,0 +1,19 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "title": "Breaking Bad",
+      "director": "Vince Gilligan",
+      "year": "2008",
+      "category": "Crime, Drama,Thriller, Neo-Western, Black comedy, Tragedy",
+      "time-per-episode": "43-58 min", 
+      "seasons": "5 Seasons",
+      "episodes": "62 Episodes",
+      "plot": "Set in Albuquerque, New Mexico, between 2008 and 2010, Breaking Bad follows Walter White, a meek high school chemistry teacher who transforms into a ruthless player in the local methamphetamine drug trade, driven by a desire to financially provide for his family after being diagnosed with terminal lung cancer. Initially making only small batches of meth with his former student Jesse Pinkman in a rolling meth lab, Walter and Jesse eventually expand to make larger batches of a special blue meth that is incredibly pure and creates high demand. Walter takes on the name 'Heisenberg' to mask his identity. Because of his drug-related activities, Walter eventually finds himself at odds with his family, the Drug Enforcement Administration (DEA) through his brother-in-law Hank Schrader, the local gangs, and the Mexican drug cartels (including their regional distributors), putting him and his family's lives at risk.",
+      "cast": "Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris, Betsy Brandt, RJ Mitte, Giancarlo Esposito, Bob Odenkirk, Jonathan Banks, Laura Fraser, Jesse Plemons",
+      "stars": "4.5",
+      "comment": "",
+      "img": "https://pics.filmaffinity.com/pulp_fiction-210382116-mmed.jpg"
+    }
+  ]
+}

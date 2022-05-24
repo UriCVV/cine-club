@@ -1,0 +1,43 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Pulp Fiction",
+      "category": "Drama, Action, Crime",
+      "director": "Quentin Tarantino",
+      "year": "1994",
+      "time": "1:25h",
+      "plot": "The lives of a boxer, two hitmen, a gangster's wife and two bandits intertwine in a story of violence and redemption.",
+      "cast": "John Travolta, Samuel L. Jackson, Uma Thurman, Harvey Keitel, Tim Roth, Amanda Plummer, Maria de Medeiros, Ving Rhames, Eric Stoltz, Rosanna Arquette, Christopher Walken, Bruce Willis",
+      "rating": "5",
+      "comment": "",
+      "img": "https://media.wired.com/photos/59323e2a52d99d6b984dd3f4/master/w_2560%2Cc_limit/Pulp-Fiction.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Spider-Man: No Way Home",
+      "category": "Action",
+      "director": "Jon Watts",
+      "year": "2021",
+      "time": "1:35h",
+      "plot": "undefined",
+      "cast": "undefined",
+      "rating": "3.4",
+      "comment": "undefined",
+      "img": "https://1.bp.blogspot.com/-z0lgtf-4RVc/XSiK9MinsrI/AAAAAAAAHtY/BHjIKhwF7O0BqP2791Yfvq8lqgtEwjrAgCLcBGAs/s1600/spider-man-homecoming-tom-holland-1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cowspiracy: The Sustainability Secret",
+      "category": "Documental",
+      "director": "Kip Andersen, Keegan Kuhn",
+      "year": "",
+      "time": "1:25h",
+      "plot": "undefined",
+      "cast": "undefined",
+      "rating": "4.6",
+      "comment": "undefined",
+      "img": "https://bingeddata.s3.amazonaws.com/uploads/2020/11/cowspiracy-the-sustainability-secret-1.jpg"
+    }
+  ]
+}
