@@ -14,11 +14,11 @@
   --black-light: #1d1d1d8c;
   --black-lighter: #1d1d1d31;
 
-  --primary: #2b42c4;
+  --primary: #8731ff;
   --secondary: #fccf52;
   --tertiary: #FF595E;
   --quaternary: #8AC926;
-  --quinary: #6A4C93;
+  --quinary: #2b42c4;
 }
 
 body {
